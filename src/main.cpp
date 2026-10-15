@@ -52,6 +52,7 @@ int Valvula = 0;
 char buffer[6];
 float temp = 0;
 int c;
+int prueba_git;
 
 ESP32Encoder encoder;
 
